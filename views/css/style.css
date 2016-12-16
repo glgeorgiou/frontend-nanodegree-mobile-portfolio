@@ -44,8 +44,16 @@ form {
   content: "";
   display: table;
   clear:both;
+    width:33.33%;
+    height: 325px;
 }
 
  .container {
   background-color: rgba(240, 60, 60, 0.8);
 }
+
+.locations {text-align: center;}
+.our-pizza {text-align: center;}
+.our-pizza2 {width:33.33%; height: 325px;}
+.pizza-png {width:35%;}
+.udacity-special {width:65%;}
